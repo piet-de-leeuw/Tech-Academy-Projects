@@ -1,2 +1,3 @@
 This is my text file
 Another line in my textfile 
+new line of text for myFirstBranch
