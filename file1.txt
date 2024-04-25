@@ -3,3 +3,4 @@ Another line in my textfile
 new line of text for myFirstBranch
 Adding another modification to file1
 Correct line
+
