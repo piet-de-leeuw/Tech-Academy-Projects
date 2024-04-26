@@ -1,0 +1,1 @@
+Text for chalange pushing texstfile into GitHub whit BASH Git
